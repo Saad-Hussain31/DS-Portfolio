@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Saad Hussain</title>
+    <link>https://saad-hussain31.github.io/DS-Portfolio/post/</link>
+    <description>Recent content in Projects on Saad Hussain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://saad-hussain31.github.io/DS-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Balance Defaulter Classification</title>
+      <link>https://saad-hussain31.github.io/DS-Portfolio/post/project-1/</link>
+      <pubDate>Fri, 16 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://saad-hussain31.github.io/DS-Portfolio/post/project-1/</guid>
+      <description>The data set is displayed below. I have plotted annual income and monthly credit card balance for a subset of 10,000 individuals.
+The Default data set.Left:The annual incomes and monthly credit card balances of a number of individuals. The individuals who defaulted on their credit card payments are shown in orange, and those who did not are shown in blue. Center:Boxplots of balanceas a function of default status. Right: Boxplots of incomeas a function of default status.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Customer Analytics</title>
+      <link>https://saad-hussain31.github.io/DS-Portfolio/post/project-2/</link>
+      <pubDate>Thu, 11 Feb 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://saad-hussain31.github.io/DS-Portfolio/post/project-2/</guid>
+      <description>The STP framework of marketing is the backbone of this machine learning project. Segmentation is done using unsupervised learning algorithms and supervised learning determines the most fruitful segments for targeting and positioning of products in the future.
+For segmentation, hierarchical clustering is perfromed which return a linkage matrix, which then is plotted using dendrogram.
+  Perform K-means clustering. I have considered 1 to 10 clusters, so the for loop runs 10 iterations.</description>
+    </item>
+    
+  </channel>
+</rss>
